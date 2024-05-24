@@ -4,7 +4,7 @@ The Learning Language Model (LLM) is an advanced machine learning model designed
 Key Features:
 Training on Large Datasets: LLMs are trained on vast datasets of text, allowing them to learn patterns, semantics, and syntax inherent in human language.
 
-Contextual Understanding: LLMs excel in understanding and generating contextually relevant responses, making them suitable for chatbots, recommendation systems, and text summarization.
+Contextual Understanding: LLMs excel in understanding and generating contextually relevant responses, making them suitable for chatbots, recommendation systems, text summarization, and more.
 
 Adaptability and Continual Learning: Similar to other transformer-based models, LLMs exhibit adaptability and can improve over time with additional training data.
 
